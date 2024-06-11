@@ -92,10 +92,10 @@ ul{
 }
 
 /*Imagen de la bara de nav*/
-.nav-brand{
+/* .nav-brand{
   width: 50px;
   border-radius: 10px;
-}
+} */
 
 /* Menu de navegación Left*/
 
@@ -247,17 +247,10 @@ ul{
     height: 30px;
   }
   
-  >button:hover{
-    .fa-angle-down{
-      /* color: #000; */
-    }
-    
-  }
+
 }
 
-.fa-angle-down{
-  /* color: #fff; */
-}
+
 
 .fa-angle-down:hover{
   color: #000;
@@ -523,10 +516,7 @@ ul{
   }
 
 
-  .c-ps1-2-1{
-    /* text-shadow: #255cdd 2px 0 20px; */
-    
-  }
+
 
   .c-ps1-2-1, .c-ps1-2-2{
     width: 50%;
@@ -537,9 +527,6 @@ ul{
   }
 }
 
-.c-ps1-2-1{
-  /* margin-top: ; */
-}
 
 
 .c-ps2{
@@ -852,11 +839,7 @@ ul{
   display: grid;
   grid-template-rows: min-content min-content;
   /* background-color: rebeccapurple; */
-  >h3{
-    /* color: #fff; */
-    /* font-size: 50px; */
 
-  }
 }
 
 .c-ex2{
@@ -968,9 +951,7 @@ ul{
   align-items: center;
   justify-items: center;
 
-  .c-ex3-1{
- 
-  }
+
 
 }
 
@@ -1280,9 +1261,7 @@ ul{
   
   gap: 15px;
   margin-bottom: 30px;
-  >div{
-    /* background-color: gray; */
-  }
+
 }
 
 .m-venta-eq1{
@@ -1866,10 +1845,7 @@ ul{
       gap: 5px;
       }
       
-    .c-ex2-2{
-      /* width: 70%;
-      height: 70%; */
-    }
+   
 
     .c-ex3 {
       grid-template-columns: 1fr;
